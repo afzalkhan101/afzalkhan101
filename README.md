@@ -104,5 +104,6 @@
     জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আত্মসমর্পণ। সময়টাও খুবই কম।
   </p>
 
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=afzalkhan101.github.io)
 </div>
 
