@@ -103,7 +103,6 @@
   <p style="font-size: 1.3rem; font-style: italic; color: #FBBF24; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); line-height: 1.5;">
     জীবনে যত বড় হও, পা দুটি মাটিতে রাখো। মাটির তৈরি, মাটিতেই আত্মসমর্পণ। সময়টাও খুবই কম।
   </p>
-
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=afzalkhan101.github.io)
+  
 </div>
 
