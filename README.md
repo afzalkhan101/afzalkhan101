@@ -32,7 +32,7 @@
 <table align="center">
   <tr>
     <td><strong>🖥️ Languages</strong></td>
-    <td>C, C++, Python, JavaScript,Go</td>
+    <td>C, C++, Python, JavaScript, Go</td>
   </tr>
   <tr>
     <td><strong>🗄️ Databases</strong></td>
@@ -50,8 +50,11 @@
     <td><strong>☁️ Cloud Platforms</strong></td>
     <td>DigitalOcean, AWS, Cloudinary</td>
   </tr>
+  <tr>
+    <td><strong>💡 Problem Solving </strong></td>
+    <td>Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Dynamic Programming</td>
+  </tr>
 </table>
-
 
 ## 📊 My GitHub Stats & Most Used Languages
 
