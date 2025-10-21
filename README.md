@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><strong>⚙️ Frameworks & Libraries</strong></td>
-    <td>Django, Flask, Django REST Framework (DRF), Tailwind CSS, Bootstrap</td>
+    <td>Django, Flask, Django REST Framework (DRF),odoo Tailwind CSS, Bootstrap</td>
   </tr>
   <tr>
     <td><strong>🛠️ Tools</strong></td>
