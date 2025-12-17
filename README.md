@@ -29,30 +29,54 @@
 
 ### 🛠️ Skills & Technologies
 
-<table align="center">
+<table align="center" style="width:80%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr>
-    <td><strong>🖥️ Languages</strong></td>
-    <td>C, C++, Python, JavaScript, Go</td>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🖥️ Programming Languages</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      C, C++, Python, JavaScript, Go, XML, QWeb
+    </td>
   </tr>
   <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td>MySQL, PostgreSQL, SQLite, MongoDB</td>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🗄️ Databases</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      PostgreSQL, SQLite, MySQL (basic)
+    </td>
   </tr>
   <tr>
-    <td><strong>⚙️ Frameworks & Libraries</strong></td>
-    <td>Django, Flask, Django REST Framework (DRF),odoo Tailwind CSS, Bootstrap</td>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">⚡ Competitive Programming</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      Data Structures, Algorithms, Problem Solving, Optimization, Coding Challenges
+    </td>
   </tr>
   <tr>
-    <td><strong>🛠️ Tools</strong></td>
-    <td>Docker, Git, GitHub, Notion, Jira, Postman</td>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🛠️ Odoo & Related Frameworks</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      Odoo, OWL, Odoo Studio, ORM, Access Control, Record Rules, Workflow Automation, API Integration
+    </td>
   </tr>
   <tr>
-    <td><strong>☁️ Cloud Platforms</strong></td>
-    <td>DigitalOcean, AWS, Cloudinary</td>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🛠️ Django & Python Libraries</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      Django, Django REST Framework (DRF), Flask, NumPy, Pandas
+    </td>
   </tr>
   <tr>
-    <td><strong>💡 Problem Solving </strong></td>
-    <td>Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Dynamic Programming</td>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🎨 Frontend & UI</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      Tailwind CSS, Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">☁️ Cloud & Deployment</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      Odoo.sh, DigitalOcean, AWS, Cloudinary, Docker
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🔧 Tools & Platforms</td>
+    <td style="padding:8px; border-bottom: 1px solid #ddd;">
+      Git, GitHub, Postman, Jira, Notion
+    </td>
   </tr>
 </table>
 
