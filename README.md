@@ -86,7 +86,9 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afzalkhan101&theme=tokyonight" width="500" />
+      <a href="https://github.com/afzalkhan101/github-readme-profile">
+        <img src="https://gh-readme-profile.vercel.app/api?username=afzalkhan101&theme=tokyonight" width="500" />
+      </a>
     </td>
   </tr>
 </table>
