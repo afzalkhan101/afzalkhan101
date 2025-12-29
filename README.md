@@ -64,7 +64,7 @@
   <tr>
     <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🎨 Frontend & UI</td>
     <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      Tailwind CSS, Bootstrap
+     HTML, CSS, XML, Tailwind CSS, Bootstrap
     </td>
   </tr>
   <tr>
