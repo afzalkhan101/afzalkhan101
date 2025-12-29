@@ -86,11 +86,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=afzalkhan101&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="350" height="200" />
-    </td>
-    <td style="width:30px;"></td> <!-- spacer -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalkhan101&layout=donut&theme=tokyonight&hide_border=true&border_radius=15" width="350" height="200" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=afzalkhan101&theme=tokyonight" width="500" />
     </td>
   </tr>
 </table>
