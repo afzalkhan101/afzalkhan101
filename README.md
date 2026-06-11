@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afzalkhan101&theme=react&hide_border=true&area=true" alt="Colorful Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afzalkhan101&bg_color=0d1117&color=875A7B&line=875A7B&point=875A7B&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
