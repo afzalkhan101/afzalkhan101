@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&center=true&vCenter=true&width=650&color=00C853&repeat=true&lines=Software+Engineer;Odoo+Techno-Functional+Consultant;Odoo+ERP+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&center=true&vCenter=true&width=650&color=875A7B&repeat=true&lines=Software+Engineer;Odoo+Techno-Functional+Consultant;Odoo+ERP+Specialist" alt="Typing SVG" />
 </p>
+
 
 <h2 align="center">
   🟢 ⭐ GitHub Contributions & Highlights ⭐ 🟢
