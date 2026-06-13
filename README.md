@@ -140,33 +140,6 @@
   </tr>
 </table>
 
----
-
-<h3 align="center">🎯 Let’s Connect!</h3>
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/afzalkhan101/" target="_blank" rel="noopener noreferrer">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:afzalkhan101.contact@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/afzalkhan101/" target="_blank" rel="noopener noreferrer">
-        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center" style="max-width: 700px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
   <p style="font-size: 1.4rem; font-style: italic; color: #4ADE80; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); margin-bottom: 1.5rem;">
