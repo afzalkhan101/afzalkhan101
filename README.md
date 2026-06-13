@@ -113,13 +113,28 @@
   </tr>
 </table>
 
-## 📊 My GitHub Stats & Most Used Languages
+<h2 align="center" style="
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+  font-size: 2.2rem;
+  background: linear-gradient(45deg, #875A7B, #714B67, #017E84);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+  GitHub Statistics & Language Overview
+</h2>
 
-<table align="center">
+<table align="center" style="
+  width:90%;
+  border-collapse:collapse;
+  text-align:center;
+">
   <tr>
-    <td>
-      <a href="https://github.com/afzalkhan101/github-readme-profile">
-        <img src="https://gh-readme-profile.vercel.app/api?username=afzalkhan101&theme=tokyonight" width="500" />
+    <td style="padding:10px;">
+      <a href="https://github.com/afzalkhan101">
+        <img src="https://gh-readme-profile.vercel.app/api?username=afzalkhan101&theme=tokyonight"
+             width="500"
+             style="border:2px solid #875A7B; border-radius:12px;" />
       </a>
     </td>
   </tr>
