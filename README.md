@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&center=true&vCenter=true&width=650&color=875A7B&repeat=true&lines=Software+Engineer;Odoo+Techno-Functional+Consultant;Odoo+ERP+Specialist" alt="Typing SVG" />
 </p>
 
-<h2 align="center" style="color:#017E84;">
-  🟢 ⭐ GitHub Contributions & Highlights ⭐ 🟢
+<h2 align="center">
+  <font color="#714B67">⭐ Odoo Contributions & Highlights ⭐</font>
 </h2>
 
 <p align="center">
