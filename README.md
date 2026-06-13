@@ -11,71 +11,104 @@
 </p>
 
 ---
-
 <h2 align="center" style="
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 900;
   font-size: 2.5rem;
-  background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80);
+  background: linear-gradient(45deg, #875A7B, #714B67, #017E84);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-shadow:
-    1px 1px 2px rgba(0,0,0,0.3),
-    0 0 10px rgba(255,110,196,0.7),
-    0 0 20px rgba(120,115,245,0.7);
 ">
-  🛠️ Skills & Technologies
+  Skills & Technologies
 </h2>
 
-### 🛠️ Skills & Technologies
+<table align="center" style="
+  width:90%;
+  border-collapse:collapse;
+  font-family:'Segoe UI',sans-serif;
+  border:1px solid #d9d9d9;
+">
+  <tr style="background-color:#875A7B; color:white;">
+    <th style="padding:12px; text-align:left;">Category</th>
+    <th style="padding:12px; text-align:left;">Skills</th>
+  </tr>
 
-<table align="center" style="width:80%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🖥️ Programming Languages</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      C, C++, Python, JavaScript, Go, XML, QWeb
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Programming & Development
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      Python, JavaScript, XML, QWeb, OWL
     </td>
   </tr>
-  <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🗄️ Databases</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      PostgreSQL, SQLite, MySQL (basic)
+
+  <tr style="background-color:#f8f9fa;">
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Database
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      PostgreSQL, SQL, Query Optimization
     </td>
   </tr>
+
   <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">⚡ Competitive Programming</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      Data Structures, Algorithms, Problem Solving, Optimization, Coding Challenges
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Odoo Technical
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      Odoo ORM, Custom Module Development, Security (ACL & Record Rules),
+      Wizards, Scheduled Actions, Server Actions, QWeb Reports,
+      REST API Integration, Web Controllers, Odoo Studio,
+      Performance Optimization, Debugging & Troubleshooting
     </td>
   </tr>
-  <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🛠️ Odoo & Related Frameworks</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      Odoo, OWL, Odoo Studio, ORM, Access Control, Record Rules, Workflow Automation, API Integration
+
+  <tr style="background-color:#f8f9fa;">
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Functional Expertise
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      Requirement Gathering, Business Requirement Analysis,
+      Gap Analysis, Solution Design, ERP Implementation,
+      User Training & Support, Documentation, UAT
     </td>
   </tr>
+
   <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🛠️ Django & Python Libraries</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      Django, Django REST Framework (DRF), Flask, NumPy, Pandas
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Odoo Modules
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      Sales, CRM, Purchase, Inventory, Accounting,
+      Manufacturing (MRP), Project, HR, Helpdesk
     </td>
   </tr>
-  <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🎨 Frontend & UI</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-     HTML, CSS, XML, Tailwind CSS, Bootstrap
+
+  <tr style="background-color:#f8f9fa;">
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Deployment & Infrastructure
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      Linux (Ubuntu), Odoo.sh, Docker, Nginx, Git, GitHub
     </td>
   </tr>
+
   <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">☁️ Cloud & Deployment</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      Odoo.sh, DigitalOcean, AWS, Cloudinary, Docker
+    <td style="padding:10px; font-weight:bold; color:#714B67; border-bottom:1px solid #ddd;">
+      Client & Project Management
+    </td>
+    <td style="padding:10px; border-bottom:1px solid #ddd;">
+      Client Communication, Functional Specification Writing,
+      Project Coordination, Stakeholder Management
     </td>
   </tr>
-  <tr>
-    <td style="padding:8px; font-weight:bold; border-bottom: 1px solid #ddd;">🔧 Tools & Platforms</td>
-    <td style="padding:8px; border-bottom: 1px solid #ddd;">
-      Git, GitHub, Postman, Jira, Notion
+
+  <tr style="background-color:#f8f9fa;">
+    <td style="padding:10px; font-weight:bold; color:#714B67;">
+      Tools & Platforms
+    </td>
+    <td style="padding:10px;">
+      GitHub, Postman, Jira, Notion, VS Code
     </td>
   </tr>
 </table>
